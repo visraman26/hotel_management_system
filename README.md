@@ -12,7 +12,7 @@ MIS Project Based on Hotel Management System
 - Complainent
 
 # For accessing this project , 
-- go to http://hotelmis.000webhostapp.com/hotel/login.php
+- Go to http://hotelmis.000webhostapp.com/hotel/login.php
 - Login Credentials :  
-- username : admin
-- password : admin
+- Username : admin
+- Password : admin
