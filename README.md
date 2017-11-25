@@ -11,7 +11,8 @@ MIS Project Based on Hotel Management System
 - Employee History
 - Complainent
 
-For accessing this project , go to http://hotelmis.000webhostapp.com/hotel/login.php
-Login Credentials :  
+For accessing this project , 
+-go to http://hotelmis.000webhostapp.com/hotel/login.php
+-Login Credentials :  
 username : admin
 password : admin
